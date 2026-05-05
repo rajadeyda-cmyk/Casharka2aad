@@ -6,7 +6,6 @@
 7. axmed dhaxweyne
 8. Najiib dhaxweyne
 
-
 **Quiz**
 
 # Define
