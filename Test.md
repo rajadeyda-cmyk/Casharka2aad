@@ -6,7 +6,7 @@
 7. axmed dhaxweyne
 8. Najiib dhaxweyne
 
-**Quiz**
+**Quizz**
 
 # Define
 cd
